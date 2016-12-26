@@ -1,0 +1,490 @@
+"hospital","medicaid.inpatient.days","medicaid.pct.total","medicare.inpatient.days","medicare.pct.total","commercial.inpatient.days","commerical.pct.total","other.inpatient.days","other.pct.total","total.inpatient.days","year"
+"Marshall County Hosp.",163,5.3,2495,81.2,303,9.9,111,3.6,3072,2012
+"Parkway Reg. Hosp.",784,23.5,1987,59.5,356,10.7,210,6.3,3337,2012
+"Jackson Purchase Medical Ctr.",2773,17.6,10201,64.7,1932,12.3,860,5.5,15766,2012
+"Murray Calloway County Hosp.",2472,13,10680,56,4741,24.9,1164,6.1,19057,2012
+"Lourdes Hosp.",4099,8,32431,63.5,9018,17.7,5485,10.7,51033,2012
+"Baptist Hosp. Paducah",8480,13.4,35576,56.1,14685,23.2,4626,7.3,63367,2012
+"Cumberland Hall",4237,17.6,1486,6.2,1907,7.9,16469,68.3,24099,2012
+"Trigg County Hosp. Inc",33,2.3,1216,86.4,117,8.3,42,3,1408,2012
+"Muhlenberg Community Hosp.",1987,28.4,1918,27.4,2129,30.4,969,13.8,7003,2012
+"Jennie Stuart Medical Ctr. Inc",5556,21.2,13264,50.5,5965,22.7,1483,5.6,26268,2012
+"Baptist Health Madisonville",5596,14.5,23084,59.8,6514,16.9,3419,8.9,38613,2012
+"Crittenden Health Systems",393,9.5,2836,68.8,608,14.8,283,6.9,4120,2012
+"Caldwell Medical Ctr.",95,5.9,1150,71.3,43,2.7,325,20.1,1613,2012
+"Livingston Hosp & Healthcare Svcs Inc",498,13.7,2468,67.9,424,11.7,244,6.7,3634,2012
+"Owensboro Medical Health System",12525,16.8,35301,47.3,19256,25.8,7623,10.2,74705,2012
+"Ohio County Hosp.",221,5.9,2645,70.1,600,15.9,305,8.1,3771,2012
+"Methodist Hosp.",5778,23.2,6905,27.7,11672,46.8,590,2.4,24945,2012
+"Methodist Hosp. Union County",306,12.7,919,38.2,1099,45.7,80,3.3,2404,2012
+"River Valley Beh. Health Hosp.",4149,81.1,NA,0,791,15.5,176,3.4,5116,2012
+"Southern Kentucky Rehab. Hosp.",805,4.9,13031,79.8,2354,14.4,139,0.9,16329,2012
+"Tri Star Greenview Reg. Hosp.",1081,7.4,10028,68.5,2785,19,750,5.1,14644,2012
+"The Medical Ctr. at Bowling Green",13381,14.9,51317,57.3,17504,19.5,7413,8.3,89615,2012
+"The Medical Ctr. at Franklin",218,5.2,3199,75.8,556,13.2,247,5.9,4220,2012
+"T J Samson Community Hosp.",4986,23.4,11360,53.4,3711,17.4,1235,5.8,21292,2012
+"Logan Memorial Hosp.",462,8.3,4254,76.3,660,11.8,198,3.6,5574,2012
+"The Medical Ctr. at Scottsville",120,7,1281,74.2,158,9.2,167,9.7,1726,2012
+"Monroe County Medical Ctr.",1138,12.4,6939,75.9,568,6.2,500,5.5,9145,2012
+"Rivendell Beh. Health Services",16011,80.3,99,0.5,3161,15.9,658,3.3,19929,2012
+"Caverna Memorial Hosp. Inc",126,10.9,834,72.3,129,11.2,64,5.6,1153,2012
+"Commonwealth Reg. Specialty Hosp.",63,1,5662,90.4,539,8.6,NA,0,6264,2012
+"Healthsouth Lakeview Rehab. Hosp. of Central",71,1.1,5201,78.2,1031,15.5,352,5.3,6655,2012
+"Flaget Memorial Hosp.",1076,12.4,4785,55.3,2161,25,625,7.2,8647,2012
+"Hardin Memorial Hosp.",7820,13.6,33984,59.2,10169,17.7,5473,9.5,57446,2012
+"Breckinridge Memorial Hosp.",225,6.3,2871,80.8,339,9.5,120,3.4,3555,2012
+"Springview Hosp.",1573,24.6,3261,50.9,1345,21,222,3.5,6401,2012
+"Twin Lakes Reg. Medical Ctr.",2288,20.3,6489,57.7,1712,15.2,764,6.8,11253,2012
+"Lincoln Trail Beh. Health System",13515,42,6763,21,2362,7.3,9528,29.6,32168,2012
+"The Brook Hosp. KMI",19262,62.6,2884,9.4,6665,21.7,1971,6.4,30782,2012
+"Baptist Hosp. East",7117,5.1,83618,60.4,43555,31.5,4090,3,138380,2012
+"The Brook - Dupont",11071,44.2,4310,17.2,4565,18.2,5110,20.4,25056,2012
+"Baptist Hosp. Northeast",2326,19.6,5889,49.6,2678,22.6,974,8.2,11867,2012
+"Jewish Hosp. & St Marys Healthcare",10769,11.6,54855,59.2,19942,21.5,7076,7.6,92642,2012
+"University of Louisville Hosp.",28759,30.7,17331,18.5,25560,27.3,21967,23.5,93617,2012
+"Our Lady of Peace",28274,51.8,4029,7.4,17698,32.4,4543,8.3,54544,2012
+"Frazier Rehab Institute",1661,7.6,11109,51.1,5315,24.5,3636,16.7,21721,2012
+"Kindred Hosp. Louisville",8533,24.2,17749,50.4,8602,24.4,343,1,35227,2012
+"Norton Audubon Hosp.",5931,8.3,46172,64.7,14873,20.9,4341,6.1,71317,2012
+"Norton Suburban Hosp.",17196,21.3,24806,30.7,35001,43.3,3772,4.7,80775,2012
+"Saints Mary & Elizabeth Hosp.",2509,6.6,20603,54,12954,34,2074,5.4,38140,2012
+"Jewish Hosp. Shelbyville",565,8.6,4432,67.3,997,15.1,595,9,6589,2012
+"Kosair Childrens Hosp.",49176,64.9,133,0.2,22780,30.1,3640,4.8,75729,2012
+"Norton Hosp.",24769,25.7,42246,43.8,23295,24.1,6232,6.5,96542,2012
+"Kindred Hosp. at Jewish Louisville",1361,12.9,5025,47.5,4127,39,71,0.7,10584,2012
+"Norton Brownsboro Hosp.",1123,5.2,12642,58.1,6643,30.5,1350,6.2,21758,2012
+"Cardinal Hill Specialty Hosp.",11,0.3,3120,75.9,977,23.8,NA,0,4108,2012
+"Carroll County Memorial Hosp.",270,10.6,1668,65.4,348,13.7,263,10.3,2549,2012
+"Northkey Community Care Intensive Services",4571,81,NA,0,1000,17.7,74,1.3,5645,2012
+"St Elizabeth Florence",2964,8.8,19287,57.5,6681,19.9,4610,13.7,33542,2012
+"St Elizabeth Fort Thomas",2195,7.9,17456,62.6,4830,17.3,3411,12.2,27892,2012
+"Healthsouth Northern KY Rehab Hosp.",406,3.4,10447,86.4,1045,8.6,189,1.6,12087,2012
+"New Horizons Medical Ctr.",77,7.7,814,80.9,108,10.7,7,0.7,1006,2012
+"St Elizabeth Grant",76,7.7,674,68.2,164,16.6,74,7.5,988,2012
+"St Elizabeth Edgewood",17216,13.5,64555,50.8,34001,26.8,11306,8.9,127078,2012
+"Gateway Rehab. Hosp. at Florence",415,4,7264,70.4,2481,24,157,1.5,10317,2012
+"Fleming County Hosp.",513,11.4,2824,62.8,903,20.1,260,5.8,4500,2012
+"Meadowview Reg. Medical Ctr.",2286,24,4962,52,2030,21.3,265,2.8,9543,2012
+"St Claire Reg. Medical Ctr.",4120,19.1,13268,61.5,2472,11.5,1705,7.9,21565,2012
+"Saint Joseph Mount Sterling",1469,19,4619,59.6,1271,16.4,391,5,7750,2012
+"Morgan County ARH Hosp.",142,13,856,78.2,70,6.4,26,2.4,1094,2012
+"Kings Daughters Medical Ctr.",17309,19.6,49171,55.8,17617,20,4099,4.6,88196,2012
+"Our Lady of Bellefonte Hosp.",4029,15.2,14798,55.7,5507,20.7,2245,8.4,26579,2012
+"Three Rivers Medical Ctr.",4826,37.5,5627,43.7,1413,11,1003,7.8,12869,2012
+"Saint Joseph Hosp. Martin",374,13,1700,59,211,7.3,595,20.7,2880,2012
+"McDowell ARH Hosp.",422,19.5,1370,63.4,150,6.9,219,10.1,2161,2012
+"Paul B Hall Reg. Medical Ctr.",2911,29.7,5457,55.6,799,8.1,650,6.6,9817,2012
+"Pikeville Medical Ctr.",12843,21,35306,57.7,8920,14.6,4153,6.8,61222,2012
+"Highlands Reg. Medical Ctr.",5873,23.6,13861,55.6,3741,15,1450,5.8,24925,2012
+"Williamson ARH Hosp.",2371,22.5,5863,55.7,1291,12.3,1003,9.5,10528,2012
+"Kentucky River Medical Ctr.",2105,28.8,4048,55.4,566,7.8,583,8,7302,2012
+"Hazard ARH Reg. Medical Ctr.",20895,28.2,37000,49.9,5257,7.1,11065,14.9,74217,2012
+"Mary Breckinridge Hosp.",596,23.2,1412,54.9,350,13.6,214,8.3,2572,2012
+"Whitesburg ARH Hosp.",3219,22.5,7837,54.9,1754,12.3,1477,10.3,14287,2012
+"Knox County Hosp.",1324,23.8,3201,57.4,911,16.3,136,2.4,5572,2012
+"Baptist Reg. Medical Ctr.",11423,25.3,23386,51.8,5245,11.6,5108,11.3,45162,2012
+"Harlan ARH Hosp.",5956,28.9,10408,50.5,1530,7.4,2727,13.2,20621,2012
+"Saint Joseph Hosp. London",6897,22.3,16331,52.9,4269,13.8,3375,10.9,30872,2012
+"Middlesboro ARH Hosp.",2988,29,5779,56.1,812,7.9,726,7,10305,2012
+"Rockcastle Reg. Hosp. & Respiratory Care Ctr.",427,12.2,2493,71.1,340,9.7,245,7,3505,2012
+"Pineville Community Hosp.",1642,14.9,7574,68.8,1285,11.7,511,4.6,11012,2012
+"Memorial Hosp. Inc",2908,29.6,5571,56.7,501,5.1,837,8.5,9817,2012
+"Oak Tree Hosp.",1481,19.5,5391,71.1,627,8.3,80,1.1,7579,2012
+"Westlake Reg. Hosp.",711,13.2,3636,67.3,715,13.2,342,6.3,5404,2012
+"Taylor Reg. Hosp.",1911,15.6,7891,64.6,1570,12.9,842,6.9,12214,2012
+"Jane Todd Crawford Memorial Hosp.",264,12.5,1448,68.8,306,14.5,87,4.1,2105,2012
+"Wayne County Hosp. Inc",260,10.5,1587,64,479,19.3,153,6.2,2479,2012
+"Lake Cumberland Reg. Hosp.",11744,21.4,33487,61.1,5857,10.7,3693,6.7,54781,2012
+"Russell County Hosp.",170,6.3,1883,69.6,224,8.3,429,15.9,2706,2012
+"Casey County Hosp.",187,7.2,2004,77.6,240,9.3,150,5.8,2581,2012
+"Clinton County Hosp.",907,17.5,3306,63.9,595,11.5,362,7,5170,2012
+"Cumberland County Hosp.",450,14,2014,62.6,586,18.2,168,5.2,3218,2012
+"Saint Joseph Berea",543,12,3011,66.4,654,14.4,330,7.3,4538,2012
+"Nicholas County Hosp.",100,9.5,783,74.4,148,14.1,22,2.1,1053,2012
+"Harrison Memorial Hosp.",1271,20.5,3383,54.7,1212,19.6,320,5.2,6186,2012
+"Ephraim McDowell Reg Medical Ctr.",4454,14.2,18188,57.8,6484,20.6,2324,7.4,31450,2012
+"Frankfort Reg. Medical Ctr.",3751,20,9165,48.8,4133,22,1740,9.3,18789,2012
+"Georgetown Community Hosp.",995,16.6,3222,53.7,1209,20.2,572,9.5,5998,2012
+"The James B Haggin Memorial Hosp.",84,6.1,954,68.8,263,19,86,6.2,1387,2012
+"Marcum and Wallace Memorial Hosp.",264,12,1567,71.5,167,7.6,194,8.9,2192,2012
+"Cardinal Hill Rehab. Hosp.",6759,18.3,18976,51.3,10204,27.6,1029,2.8,36968,2012
+"Central Baptist Hosp.",15068,16.6,40501,44.6,30309,33.4,4929,5.4,90807,2012
+"Ridge Beh. Health System",10592,40.2,7743,29.4,7253,27.6,732,2.8,26320,2012
+"UK HealthCare Good Samaritan Hosp.",10627,25,17115,40.2,7499,17.6,7345,17.2,42586,2012
+"Saint Joseph East",8981,24.5,8394,22.9,16860,45.9,2464,6.7,36699,2012
+"Saint Joseph Hosp.",5623,6.9,44448,54.3,28377,34.7,3412,4.2,81860,2012
+"Shriners Hosp. for Children",315,44,NA,0,328,45.8,73,10.2,716,2012
+"University of Kentucky Hosp.",56739,33.7,52245,31.1,42562,25.3,16668,9.9,168214,2012
+"Bourbon Community Hosp.",3853,42.5,3270,36,1633,18,316,3.5,9072,2012
+"Baptist Health Richmond",3722,28,6646,50,2413,18.2,509,3.8,13290,2012
+"Ephraim McDowell Fort Logan Hosp.",1145,42.2,760,28,604,22.3,205,7.6,2714,2012
+"Bluegrass Community Hosp.",46,4.9,685,72.7,151,16,60,6.4,942,2012
+"Clark Reg. Medical Ctr.",2550,28.8,4306,48.6,1297,14.6,714,8.1,8867,2012
+"Continuing Care Hosp.",1089,8.4,7758,60.1,4005,31,56,0.4,12908,2012
+"Select Specialty Hosp. - Lexington",338,3.5,7650,78.9,1439,14.8,264,2.7,9691,2012
+"Marshall County Hosp.",100,3.7,2227,82.7,256,9.5,109,4,2692,2013
+"Parkway Reg. Hosp.",583,19.8,1867,63.3,319,10.8,182,6.2,2951,2013
+"Jackson Purchase Medical Ctr.",2549,16.8,9814,64.7,2029,13.4,769,5.1,15161,2013
+"Murray-Calloway County Hosp.",2184,13.2,9345,56.3,4493,27.1,566,3.4,16588,2013
+"Lourdes Hosp.",4338,9,30287,62.6,8626,17.8,5096,10.5,48347,2013
+"Western Baptist Hosp.",8287,14.6,31285,55.2,13115,23.1,4035,7.1,56722,2013
+"Cumberland Hall",4278,20.7,1560,7.6,2636,12.8,12172,59,20646,2013
+"Trigg County Hosp.",30,3.8,620,78.6,73,9.3,66,8.4,789,2013
+"Muhlenberg Community Hosp.",1399,24,1630,27.9,2020,34.6,788,13.5,5837,2013
+"Jennie Stuart Medical Ctr.",5271,20.1,12769,48.7,7099,27.1,1077,4.1,26216,2013
+"Baptist Health Madisonville",5543,15,21228,57.6,6267,17,3838,10.4,36876,2013
+"Crittenden Health System",341,10.8,1977,62.8,670,21.3,161,5.1,3149,2013
+"Caldwell Medical Ctr.",103,7.9,831,63.9,276,21.2,91,7,1301,2013
+"Livingston Hosp & Healthcare Services",332,11.8,1967,70,315,11.2,195,6.9,2809,2013
+"Owensboro Medical Health System",10082,13.5,41046,55.2,16157,21.7,7134,9.6,74419,2013
+"Ohio County Hosp.",370,10.8,2216,64.7,567,16.5,273,8,3426,2013
+"Methodist Hosp.",5623,24.5,4717,20.6,11952,52.1,633,2.8,22925,2013
+"Methodist Hosp. - Union County",293,15.1,375,19.4,1163,60.1,103,5.3,1934,2013
+"River Valley Beh. Health",3762,80,NA,0,454,9.7,484,10.3,4700,2013
+"Southern Kentucky Rehab. Hosp.",1007,6.8,11537,78.1,2005,13.6,221,1.5,14770,2013
+"Greenview Reg. Hosp.",985,6.6,10241,69.1,2674,18,925,6.2,14825,2013
+"The Medical Ctr. at Bowling Green",12664,14.5,51366,58.6,17203,19.6,6353,7.3,87586,2013
+"The Medical Ctr. at Franklin",165,4.8,2584,75.2,469,13.6,219,6.4,3437,2013
+"T J Samson Community Hosp.",4435,21.9,10464,51.6,3892,19.2,1505,7.4,20296,2013
+"Logan Memorial Hosp.",436,7.9,4028,72.9,802,14.5,256,4.6,5522,2013
+"The Medical Ctr. at Scottsville",90,7.2,985,79.1,110,8.8,60,4.8,1245,2013
+"Monroe County Medical Ctr.",1226,16.2,5583,73.6,467,6.2,308,4.1,7584,2013
+"Rivendell Beh. Health Services",24343,85.1,1507,5.3,2240,7.8,518,1.8,28608,2013
+"Caverna Memorial Hosp.",56,8,534,76.4,73,10.4,36,5.2,699,2013
+"Commonwealth Reg. Specialty Hosp.",514,9.4,4443,81.4,504,9.2,NA,0,5461,2013
+"Healthsouth Lakeview Rehab. Hosp. of Central Kentucky",162,2,6313,77.4,1340,16.4,344,4.2,8159,2013
+"Flaget Memorial Hosp.",1100,14.3,4602,59.7,1538,20,466,6,7706,2013
+"Hardin Memorial Hosp.",7933,14,33610,59.5,9608,17,5331,9.4,56482,2013
+"Breckinridge Memorial Hosp.",236,7.8,2389,79.1,272,9,123,4.1,3020,2013
+"Spring View Hosp.",1459,24.8,2865,48.7,1358,23.1,198,3.4,5880,2013
+"Twin Lakes Reg. Medical Ctr.",1874,17,6744,61.2,1433,13,974,8.8,11025,2013
+"Lincoln Trail Beh. Health System",10814,31.3,12921,37.5,2620,7.6,8146,23.6,34501,2013
+"The Brook Hosp. - KMI",12878,52.3,3175,12.9,7374,30,1174,4.8,24601,2013
+"Baptist Health Louisville",8151,6.1,78408,58.9,42049,31.6,4471,3.4,133079,2013
+"The Brook - Dupont",6354,28.4,6412,28.7,5636,25.2,3935,17.6,22337,2013
+"Baptist Health La Grange",2072,19.3,5236,48.8,2701,25.2,716,6.7,10725,2013
+"Jewish Hosp. & St Mary's Healthcare",9991,12.8,37859,48.5,26238,33.6,3897,5,77985,2013
+"University of Louisville Hosp.",28060,30.2,17769,19.1,24270,26.1,22763,24.5,92862,2013
+"Our Lady of Peace",11281,32,6986,19.8,8736,24.8,8277,23.5,35280,2013
+"Frazier Rehab Institute",2517,13.4,8071,43,6484,34.6,1678,8.9,18750,2013
+"Kindred Hosp. - Louisville",8337,26.7,16055,51.5,5556,17.8,1222,3.9,31170,2013
+"Norton Audubon Hosp.",5497,8.2,43171,64.4,13085,19.5,5280,7.9,67033,2013
+"Norton Suburban Hosp.",15294,21.5,18501,26,31609,44.4,5748,8.1,71152,2013
+"Saints Mary & Elizabeth Hosp.",2693,8,23633,69.8,4912,14.5,2618,7.7,33856,2013
+"Jewish Hosp. Shelbyville",447,7.6,3501,59.3,1496,25.3,459,7.8,5903,2013
+"Kosair - Norton Hsp Kosair Chdrn Hsp Norton Healthcare Pavillion",47002,61.2,127,0.2,25012,32.5,4718,6.1,76859,2013
+"Norton - Norton Hsp Kosair Chdrn Hsp Norton Healthcare Pavillion",23270,24.3,42015,44,21659,22.7,8623,9,95567,2013
+"Kindred Hosp. at Jewish Louisville",953,9.3,6370,62,2553,24.8,401,3.9,10277,2013
+"Norton Brownsboro Hosp.",1108,4.6,13798,57.9,7186,30.1,1754,7.4,23846,2013
+"Select Speciality Hosp. Northern Kentucky",388,6.5,4019,67.2,1413,NA,NA,2.8,5985,2013
+"Carroll County Memorial Hosp.",174,7.9,1526,69.7,233,10.6,257,11.7,2190,2013
+"Northkey Community Care-Intensive Services",3140,72.7,NA,0,1088,25.2,89,2.1,4317,2013
+"St Elizabeth Florence",3123,8.5,20639,56.2,6646,18.1,6335,17.2,36743,2013
+"St Elizabeth Ft Thomas",2363,7.4,19667,61.9,5383,16.9,4354,13.7,31767,2013
+"HealthSouth Northern Kentucky Rehab. Hosp.",385,2.9,11295,85.1,1378,10.4,215,1.6,13273,2013
+"New Horizons Medical Ctr.",31,3.8,705,86,74,9,10,1.2,820,2013
+"St Elizabeth Grant",35,4.5,579,74.3,96,12.3,69,8.9,779,2013
+"St Elizabeth Edgewood",18352,14.6,64038,50.9,30891,24.5,12595,10,125876,2013
+"Gateway Rehab. Hosp. at Florence",294,2.4,8606,71.6,3091,25.7,36,0.3,12027,2013
+"Fleming County Hosp.",643,13.1,2758,56.2,1260,25.7,248,5.1,4909,2013
+"Meadowview Reg. Medical Ctr.",2126,22.5,5328,56.3,1730,18.3,281,3,9465,2013
+"St Claire Reg. Medical Ctr.",4508,20.6,12255,55.9,2882,13.1,2286,10.4,21931,2013
+"Saint Joseph Mount Sterling",1746,22.3,4511,57.5,1233,15.7,357,4.5,7847,2013
+"Morgan County ARH Hosp.",90,7.4,985,80.7,86,7,60,4.9,1221,2013
+"Kings Daughters Medical Ctr.",14416,18.3,43487,55.1,14872,18.8,6198,7.8,78973,2013
+"Our Lady of Bellefonte Hosp.",4780,17.3,15211,54.9,5219,18.8,2479,9,27689,2013
+"Three Rivers Medical Ctr.",3551,35.5,4578,45.8,1214,12.1,662,6.6,10005,2013
+"Saint Joseph - Martin",357,14.6,1476,60.4,162,6.6,448,18.3,2443,2013
+"McDowell ARH Hosp.",351,18.6,1232,65.3,152,8.1,152,8.1,1887,2013
+"Paul B Hall Reg. Medical Ctr.",1774,23.4,4733,62.3,651,8.6,434,5.7,7592,2013
+"Pikeville Medical Ctr.",12497,20.1,35647,57.3,8818,14.2,5206,8.4,62168,2013
+"Highlands Reg. Medical Ctr.",4194,22.5,10132,54.4,3195,17.2,1088,5.8,18609,2013
+"Williamson ARH Hosp.",1787,19.5,5551,60.5,965,10.5,872,9.5,9175,2013
+"Kentucky River Medical Ctr.",1701,29.2,3248,55.7,398,6.8,487,8.3,5834,2013
+"Hazard ARH Reg. Medical Ctr.",21108,27.7,39739,52.1,4867,6.4,10521,13.8,76235,2013
+"Mary Breckinridge ARH Hosp.",583,22.5,1506,58,191,7.4,315,12.1,2595,2013
+"Whitesburg ARH Hosp.",3371,23.4,7811,54.2,1443,10,1783,12.4,14408,2013
+"Knox County Hosp.",885,17.9,3287,66.5,676,13.7,94,1.9,4942,2013
+"Baptist Reg. Medical Ctr.",10673,25.5,21869,52.1,4619,11,4774,11.4,41935,2013
+"Harlan ARH Hosp.",5350,27.3,10232,52.3,1362,7,2619,13.4,19563,2013
+"Saint Joseph Hosp. London",6450,24,13544,50.4,3933,14.6,2925,10.9,26852,2013
+"Middlesboro ARH Hosp.",2555,26.9,5440,57.3,836,8.8,669,7,9500,2013
+"Rockcastle Reg. Hosp. & Respiratory Care Ctr.",430,13.1,2458,74.8,234,7.1,162,4.9,3284,2013
+"Pineville Community Hosp.",1228,13.6,6378,70.6,1013,11.2,420,4.6,9039,2013
+"Memorial Hosp. Inc",2625,29.7,5029,56.9,432,4.9,758,8.6,8844,2013
+"ContinueCARE Hosp. at Baptist Health Corbin",1906,23.1,5953,72.2,388,4.7,NA,0,8247,2013
+"Westlake Reg. Hosp.",991,21.6,2729,59.5,495,10.8,371,8.1,4586,2013
+"Taylor Reg. Hosp.",1868,15.3,7929,65.1,1587,13,805,6.6,12189,2013
+"Jane Todd Crawford Hosp.",253,13.3,1310,68.8,291,15.3,51,2.7,1905,2013
+"Wayne County Hosp. Inc",195,10.8,1128,62.4,360,19.9,125,6.9,1808,2013
+"Lake Cumberland Reg. Hosp.",11172,21.2,32708,62.2,5430,10.3,3299,6.3,52609,2013
+"Russell County Hosp.",287,12.1,1773,74.9,142,6,165,7,2367,2013
+"Casey County Hosp.",152,6.8,1733,77.4,242,10.8,111,5,2238,2013
+"Clinton County Hosp.",678,13.3,3468,68.1,703,13.8,241,4.7,5090,2013
+"Cumberland County Hosp.",231,7.5,2125,69.1,538,17.5,183,5.9,3077,2013
+"Continuing Care Hosp.",1501,11.1,8230,60.7,3636,26.8,189,1.4,13556,2013
+"Saint Joseph Berea",330,9.2,2281,63.9,705,19.7,255,7.1,3571,2013
+"Nicholas County Hosp.",43,5,682,79.8,110,12.9,20,2.3,855,2013
+"Harrison Memorial Hosp.",1192,20.7,3155,54.7,1143,19.8,273,4.7,5763,2013
+"Ephraim McDowell Reg Medical Ctr.",4902,15.3,17025,53,8101,25.2,2099,6.5,32127,2013
+"Frankfort Reg. Medical Ctr.",3857,18.9,10574,51.9,4217,20.7,1731,8.5,20379,2013
+"Georgetown Community Hosp.",1183,17.1,3732,54,1427,20.6,571,8.3,6913,2013
+"The James B Haggin Memorial Hosp.",89,6.5,922,67.2,249,18.1,112,8.2,1372,2013
+"Marcum and Wallace Memorial Hosp.",270,10.6,1871,73.5,160,6.3,243,9.6,2544,2013
+"Cardinal Hill Rehab. Hosp.",5824,17.3,17917,53.2,9311,27.7,602,1.8,33654,2013
+"Central Baptist Hosp.",13586,15.2,41547,46.6,29440,33,4526,5.1,89099,2013
+"Ridge Beh. Health System",7815,33,9447,39.9,5484,23.2,941,4,23687,2013
+"UK HealthCare Good Samaritan Hosp.",8758,21.4,17755,43.5,7196,17.6,7146,17.5,40855,2013
+"Saint Joseph East",10400,28,7216,19.4,17923,48.2,1610,4.3,37149,2013
+"Saint Joseph Hosp.",5986,8.2,36635,50.1,27680,37.9,2761,3.8,73062,2013
+"Shriners Hosp for Children",227,42.6,NA,0,232,43.5,74,13.9,533,2013
+"University of Kentucky Hosp.",58262,32.6,57499,32.2,44289,24.8,18294,10.3,178344,2013
+"Bourbon Community Hosp.",2942,36.7,3092,38.6,1420,17.7,557,7,8011,2013
+"Baptist Health Richmond",3293,26.9,6033,49.3,2385,19.5,517,4.2,12228,2013
+"Ephraim McDowell Fort Logan Hosp.",1047,42.7,635,25.9,555,22.6,214,8.7,2451,2013
+"Bluegrass Community Hosp.",51,6.1,624,74.3,110,13.1,55,6.5,840,2013
+"Clark Reg. Medical Ctr.",2545,29.4,4242,49,1296,15,572,6.6,8655,2013
+"Select Specialty Hosp. - Lexington",473,4.5,8190,77.9,1419,13.5,425,4,10507,2013
+"Jackson Purchase Medical Ctr.",2962,21.4,8763,63.3,1533,11.1,578,4.2,1383,2014
+"Lourdes Hosp.",7273,16.5,27476,62.2,7247,16.4,2210,5,4420,2014
+"Marshall County Hosp.",224,9,1979,79.2,246,9.8,51,2,250,2014
+"Murray-Calloway County Hosp.",3346,18.5,9260,51.1,5145,28.4,368,2,1811,2014
+"Parkway Reg. Hosp.",503,22.7,1473,66.5,160,7.2,78,3.5,221,2014
+"Western Baptist Hosp.",10110,16.8,34195,56.9,13145,21.9,2669,4.4,6011,2014
+"Baptist Health Madisonville",7923,20.8,21439,56.2,6614,17.4,2141,5.6,38117,2014
+"Caldwell Medical Ctr.",108,7.4,879,60.3,394,27,76,5.2,1457,2014
+"Crittenden Health System",624,18.7,1951,58.5,654,19.6,104,3.1,3333,2014
+"Cumberland Hall",3922,19.6,1780,8.9,2253,11.3,12033,60.2,19988,2014
+"Jennie Stuart Medical Ctr.",4679,29.6,6669,42.1,3807,24.1,672,4.2,15827,2014
+"Livingston Hosp & Healthcare Services",595,20.1,1925,64.9,364,12.3,81,2.7,2965,2014
+"Muhlenberg Community Hosp.",1627,26.3,1683,27.2,2176,35.2,695,11.2,6181,2014
+"Trigg County Hosp.",30,5.2,464,80,76,13.1,10,1.7,580,2014
+"Methodist Hosp.",5726,33.6,4457,26.1,6626,38.8,257,1.5,17066,2014
+"Methodist Hosp. - Union County",301,18.9,440,27.6,812,50.9,42,2.6,1595,2014
+"Ohio County Hosp.",293,11.7,1616,64.6,470,18.8,123,4.9,2502,2014
+"Owensboro Medical Health System",14638,20,39597,54,15321,20.9,3796,5.2,73352,2014
+"River Valley Beh. Health",2478,77.9,NA,NA,572,18,130,4.1,3180,2014
+"Caverna Memorial Hosp.",92,11.8,576,73.8,90,11.5,23,2.9,781,2014
+"Commonwealth Reg. Specialty Hosp.",142,2.3,5714,91,426,6.8,NA,NA,6282,2014
+"Greenview Reg. Hosp.",2024,12.9,10486,66.8,2600,16.6,594,3.8,15704,2014
+"Logan Memorial Hosp.",628,12.5,3825,76.3,499,10,61,1.2,5013,2014
+"Monroe County Medical Ctr.",979,14.5,5142,76.3,523,7.8,96,1.4,6740,2014
+"Rivendell Beh. Health Services",9819,61.6,4153,26,1406,8.8,573,3.6,15951,2014
+"Southern Kentucky Rehab. Hosp.",1819,11.1,11758,72,2407,14.7,345,2.1,16329,2014
+"T J Samson Community Hosp.",5434,26.7,10421,51.2,3506,17.2,1004,4.9,20365,2014
+"The Medical Ctr. at Bowling Green",18282,21.2,49104,56.9,16918,19.6,2044,2.4,86348,2014
+"The Medical Ctr. at Franklin",289,9.6,2202,73.1,420,13.9,103,3.4,3014,2014
+"The Medical Ctr. at Scottsville",152,13.1,869,74.7,102,8.8,40,3.4,1163,2014
+"Breckinridge Memorial Hosp.",268,9.6,2237,80.2,244,8.7,41,1.5,2790,2014
+"Flaget Memorial Hosp.",1382,20.5,3612,53.7,1553,23.1,185,2.7,6732,2014
+"Hardin Memorial Hosp.",11427,20,33230,58.2,9713,17,2751,4.8,57121,2014
+"Healthsouth Lakeview Rehab. Hosp. of Central",344,3.7,7027,75.3,1692,18.1,264,2.8,9327,2014
+"Lincoln Trail Beh. Health System",6522,22,13167,44.5,2692,9.1,7225,24.4,29606,2014
+"Spring View Hosp.",1660,29,2708,47.3,1137,19.9,217,3.8,5722,2014
+"Twin Lakes Reg. Medical Ctr.",2340,23.8,5699,58,1321,13.5,459,4.7,9819,2014
+"Baptist Health La Grange",3254,26.9,5932,48.9,2549,21,384,3.2,12119,2014
+"Baptist Health Louisville",10966,8.2,79127,59.4,40531,30.4,2512,1.9,133136,2014
+"Frazier Rehab Institute",5701,23.7,8545,35.5,8046,33.5,1751,7.3,24043,2014
+"Jewish Hosp. & St Mary's Healthcare",18986,21.7,36380,41.6,30411,34.8,1697,1.9,87474,2014
+"Jewish Hosp. Shelbyville",497,9.9,2711,53.8,1752,34.8,80,1.6,5040,2014
+"Kindred Hosp. - Louisville",5246,22.9,14151,61.9,3419,14.9,55,0.2,22871,2014
+"Kindred Hosp. at Jewish Louisville",699,9.2,5304,69.5,1464,19.2,168,2.2,7635,2014
+"Kosair - Norton Hsp Kosair Chdrn Hsp Norton Healthcare Pavillion",39811,60.1,250,0.4,21998,33.2,4142,6.3,66201,2014
+"Norton - Norton Hsp Kosair Chdrn Hsp Norton Healthcare Pavillion",28121,28.7,42804,43.6,20215,20.6,6947,7.1,98087,2014
+"Norton Audubon Hosp.",10922,14.9,46175,63,13659,18.6,2531,3.5,73287,2014
+"Norton Brownsboro Hosp.",2764,10.2,15787,58,7098,26.1,1564,5.7,27213,2014
+"Norton Suburban Hosp.",17764,24.7,17656,24.5,30904,42.9,5632,7.8,71956,2014
+"Our Lady of Peace",12748,45.7,6834,24.5,6629,23.7,1711,6.1,27922,2014
+"Saints Mary & Elizabeth Hosp.",6251,17.3,24046,66.6,5256,14.5,578,1.6,36131,2014
+"The Brook - Dupont",4915,24.5,8437,42.1,5091,25.4,1610,8,20053,2014
+"The Brook Hosp. - KMI",7735,38.5,3877,19.3,7394,36.8,1086,5.4,20092,2014
+"University of Louisville Hosp.",36469,42.7,16233,19,23173,27.1,9547,11.2,85422,2014
+"Carroll County Memorial Hosp.",297,13.7,1546,71.1,250,11.5,82,3.8,2175,2014
+"Gateway Rehab. Hosp. at Florence",1006,7.5,8781,65.7,3280,24.6,290,2.2,13357,2014
+"HealthSouth Northern Kentucky Rehab. Hosp.",737,5.3,11382,82.2,1452,10.5,272,2,13843,2014
+"New Horizons Medical Ctr.",97,13.6,545,76.4,64,9,7,1,713,2014
+"Northkey Community Care-Intensive Services",2396,66.5,NA,NA,1117,31,88,2.4,3601,2014
+"Select Speciality Hosp. Northern Kentucky",865,13,4118,61.9,1546,23.2,123,1.8,6652,2014
+"St Elizabeth Edgewood",23623,19.4,61787,50.8,30182,24.8,6007,4.9,121599,2014
+"St Elizabeth Florence",6133,17.4,19658,55.7,6683,18.9,2821,8,35295,2014
+"St Elizabeth Ft Thomas",4512,15,18471,61.5,5375,17.9,1659,5.5,30017,2014
+"St Elizabeth Grant",62,9.1,536,78.6,55,8.1,29,4.3,682,2014
+"Fleming County Hosp.",674,16.6,2187,53.9,1140,28.1,56,1.4,4057,2014
+"Meadowview Reg. Medical Ctr.",2444,28.9,4443,52.6,1180,14,380,4.5,8447,2014
+"Kings Daughters Medical Ctr.",18470,24.6,39787,52.9,13866,18.4,3074,4.1,75197,2014
+"Our Lady of Bellefonte Hosp.",5612,20.2,15363,55.4,6166,22.2,612,2.2,27753,2014
+"Three Rivers Medical Ctr.",4167,41.6,4201,42,1362,13.6,278,2.8,10008,2014
+"Highlands Reg. Medical Ctr.",4291,23.4,9700,52.9,3833,20.9,510,2.8,18334,2014
+"McDowell ARH Hosp.",439,25.6,1054,61.5,127,7.4,94,5.5,1714,2014
+"Paul B Hall Reg. Medical Ctr.",1927,30.1,3629,56.7,702,11,148,2.3,6406,2014
+"Pikeville Medical Ctr.",18156,26.6,39887,58.4,7469,10.9,2803,4.1,68315,2014
+"Saint Joseph - Martin",535,28,1149,60.2,118,6.2,107,5.6,1909,2014
+"Williamson ARH Hosp.",2502,25.6,6002,61.5,900,9.2,362,3.7,9766,2014
+"Hazard ARH Reg. Medical Ctr.",25516,36,37990,53.6,4365,6.2,2965,4.2,70836,2014
+"Kentucky River Medical Ctr.",2709,44.6,2859,47,360,5.9,150,2.5,6078,2014
+"Mary Breckinridge ARH Hosp.",359,24.1,986,66.3,50,3.4,92,6.2,1487,2014
+"Whitesburg ARH Hosp.",4280,29.9,7413,51.8,1585,11.1,1020,7.1,14298,2014
+"Baptist Reg. Medical Ctr.",13733,33,22204,53.4,4643,11.2,1035,2.5,41615,2014
+"ContinueCARE Hosp. at Baptist Health Corbin",2119,22,7179,74.7,247,2.6,67,0.7,9612,2014
+"Harlan ARH Hosp.",7440,38.2,9645,49.6,1370,7,998,5.1,19453,2014
+"Knox County Hosp.",1180,21.8,3711,68.5,447,8.2,83,1.5,5421,2014
+"Memorial Hosp. Inc",2337,29.5,4454,56.2,493,6.2,636,8,7920,2014
+"Middlesboro ARH Hosp.",2760,32.9,4687,55.8,640,7.6,310,3.7,8397,2014
+"Pineville Community Hosp.",1475,19.2,5276,68.6,846,11,91,1.2,7688,2014
+"Rockcastle Reg. Hosp. & Respiratory Care Ctr.",545,15.1,2657,73.6,320,8.9,86,2.4,3608,2014
+"Saint Joseph Hosp. London",7506,29.9,12747,50.8,3573,14.2,1267,5,25093,2014
+"Casey County Hosp.",218,10.4,1448,69.2,349,16.7,76,3.6,2091,2014
+"Clinton County Hosp.",676,17.7,2484,65.1,591,15.5,62,1.6,3813,2014
+"Cumberland County Hosp.",379,14.3,1741,65.7,484,18.3,45,1.7,2649,2014
+"Jane Todd Crawford Hosp.",281,17.3,1098,67.7,222,13.7,22,1.4,1623,2014
+"Lake Cumberland Reg. Hosp.",13959,27,31125,60.3,5131,9.9,1397,2.7,51612,2014
+"Russell County Hosp.",552,27.7,1263,63.3,145,7.3,35,1.8,1995,2014
+"Taylor Reg. Hosp.",2310,21.1,6847,62.4,1460,13.3,349,3.2,10966,2014
+"Wayne County Hosp. Inc",220,14,1009,64.2,320,20.4,23,1.5,1572,2014
+"Westlake Reg. Hosp.",1372,34.6,1956,49.3,546,13.8,96,2.4,3970,2014
+"Baptist Health Richmond",4000,33.1,5892,48.8,2071,17.1,121,1,12084,2014
+"Bluegrass Community Hosp.",124,14.6,593,69.7,102,12,32,3.8,851,2014
+"Bourbon Community Hosp.",5452,59,2404,26,1236,13.4,151,1.6,9243,2014
+"Cardinal Hill Rehab. Hosp.",7883,22.3,18977,53.8,7633,21.6,805,2.3,35298,2014
+"Central Baptist Hosp.",15694,18.7,17026,20.2,49374,58.7,1994,2.4,84088,2014
+"Clark Reg. Medical Ctr.",3503,38.4,4008,43.9,1384,15.2,229,2.5,9124,2014
+"Continuing Care Hosp.",2657,19.9,8031,60.3,2563,19.2,69,0.5,13320,2014
+"Ephraim McDowell Fort Logan Hosp.",1198,50,576,24.1,525,21.9,96,4,2395,2014
+"Ephraim McDowell Reg Medical Ctr.",7101,21.4,17287,52.1,8093,24.4,698,2.1,33179,2014
+"Frankfort Reg. Medical Ctr.",4377,20,11624,53,4403,20.1,1511,6.9,21915,2014
+"Georgetown Community Hosp.",1782,26.8,3160,47.5,1323,19.9,381,5.7,6646,2014
+"Harrison Memorial Hosp.",1307,27.3,2395,49.9,965,20.1,128,2.7,4795,2014
+"Marcum and Wallace Memorial Hosp.",303,9.8,2493,80.4,272,8.8,34,1.1,3102,2014
+"Nicholas County Hosp.",NA,5.9,33,64.7,15,29.4,NA,NA,51,2014
+"Ridge Beh. Health System",7592,34,8820,39.4,5124,22.9,822,3.7,22358,2014
+"Saint Joseph Berea",583,13.7,2853,66.8,765,17.9,67,1.6,4268,2014
+"Saint Joseph East",12768,32.3,8864,22.4,16934,42.8,992,2.5,39558,2014
+"Saint Joseph Hosp.",8609,12.6,34032,49.8,24928,36.5,809,1.2,68378,2014
+"Select Specialty Hosp. - Lexington",635,5.8,8771,80,1315,12,243,2.2,10964,2014
+"Shriners Hosp for Children",332,65.1,NA,NA,146,28.6,32,6.3,510,2014
+"The James B Haggin Memorial Hosp.",138,11.6,791,66.4,248,20.8,14,1.2,1191,2014
+"UK HealthCare Good Samaritan Hosp.",16315,37.3,17830,40.7,7618,17.4,1993,4.6,43756,2014
+"University of Kentucky Hosp.",73296,39.1,66642,35.5,41540,22.1,6132,3.3,187610,2014
+"Jackson Purchase Medical Ctr.",3480,20,11898,68.3,1520,8.7,523,3,17421,2015
+"Lourdes Hosp.",8617,17.6,31275,63.7,7232,14.7,1949,4,49073,2015
+"Marshall County Hosp.",288,12.7,1613,71,259,11.4,111,4.9,2271,2015
+"MurrayCalloway County Hosp.",3531,20.6,8832,51.4,4576,26.6,245,1.4,17184,2015
+"Parkway Reg. Hosp.",39,13,231,77,20,6.7,10,3.3,300,2015
+"Western Baptist Hosp.",12097,19.6,35280,57.2,11805,19.1,2547,4.1,61729,2015
+"Baptist Health Madisonville",9744,24.1,23642,58.6,5704,14.1,1289,3.2,40379,2015
+"Caldwell Medical Ctr.",140,10.7,864,65.7,290,22.1,21,1.6,1315,2015
+"Crittenden Health System",726,18.9,2390,62.4,644,16.8,73,1.9,3833,2015
+"Cumberland Hall",4096,20,883,4.3,2347,11.5,13135,64.2,20461,2015
+"Jennie Stuart Medical Ctr.",5214,27,10690,55.3,2683,13.9,740,3.8,19327,2015
+"Livingston Hosp & Healthcare Services",517,19.5,1642,61.9,425,16,70,2.6,2654,2015
+"Muhlenberg Community Hosp.",1841,27.5,1758,26.2,2442,36.5,659,9.8,6700,2015
+"Trigg County Hosp.",29,7,334,80.7,45,10.9,6,1.5,414,2015
+"Methodist Hosp.",4848,33.1,4265,29.1,5386,36.7,163,1.1,14662,2015
+"Methodist Hosp.  Union County",207,17.2,437,36.3,527,43.8,32,2.7,1203,2015
+"Ohio County Hosp.",285,11.5,1747,70.5,409,16.5,38,1.5,2479,2015
+"Owensboro Medical Health System",17796,21.6,44393,53.8,16774,20.3,3570,4.3,82533,2015
+"River Valley Beh. Health",4755,76.3,NA,0,595,9.5,884,14.2,6234,2015
+"Caverna Memorial Hosp.",173,15.9,819,75.2,59,5.4,38,3.5,1089,2015
+"Commonwealth Reg. Specialty Hosp.",645,10.7,4739,78.4,663,11,NA,0,6047,2015
+"Greenview Reg. Hosp.",2089,12.4,11573,68.6,2673,15.8,536,3.2,16871,2015
+"Logan Memorial Hosp.",498,11.9,3192,76,442,10.5,69,1.6,4201,2015
+"Monroe County Medical Ctr.",391,6,5056,77,1056,16.1,62,0.9,6565,2015
+"Rivendell Beh. Health Services",18398,66.4,5682,20.5,3009,10.9,613,2.2,27702,2015
+"Southern Kentucky Rehab. Hosp.",2333,13,12847,71.8,2539,14.2,187,1,17906,2015
+"T J Samson Community Hosp.",5140,26,10270,51.9,3691,18.6,697,3.5,19798,2015
+"The Medical Ctr. at Bowling Green",19352,21.8,50665,57.2,16223,18.3,2408,2.7,88648,2015
+"The Medical Ctr. at Franklin",186,8.2,1751,77.6,281,12.5,39,1.7,2257,2015
+"The Medical Ctr. at Scottsville",174,12.3,1121,79.2,108,7.6,13,0.9,1416,2015
+"Breckinridge Memorial Hosp.",207,8.5,1989,81.3,227,9.3,23,0.9,2446,2015
+"Flaget Memorial Hosp.",1502,20.2,4198,56.5,1586,21.4,139,1.9,7425,2015
+"Hardin Memorial Hosp.",11157,20.1,32046,57.9,8309,15,3875,7,55387,2015
+"Healthsouth Lakeview Rehab. Hosp. of Central",440,5.2,6420,75.5,1406,16.5,242,2.8,8508,2015
+"Kentucky",NA,NA,NA,NA,NA,NA,NA,NA,NA,2015
+"Lincoln Trail Beh. Health System",12099,35.4,13900,40.7,2523,7.4,5658,16.6,34180,2015
+"Spring View Hosp.",1622,32.4,2254,45,1056,21.1,77,1.5,5009,2015
+"Twin Lakes Reg. Medical Ctr.",2428,24.2,6014,60,1256,12.5,331,3.3,10029,2015
+"Baptist Health La Grange",3523,25,8558,60.7,1817,12.9,210,1.5,14108,2015
+"Baptist Health Louisville",13726,9.7,83278,58.7,42437,29.9,2347,1.7,141788,2015
+"Frazier Rehab Institute",6183,24.3,8672,34.1,7451,29.3,3165,12.4,25471,2015
+"Jewish Hosp. & St Marys Healthcare",19203,22.2,37483,43.4,28521,33,1230,1.4,86437,2015
+"Jewish Hosp. Shelbyville",533,15.7,1682,49.6,1129,33.3,48,1.4,3392,2015
+"Kindred Hosp.  Louisville",9913,26.4,20386,54.4,6920,18.5,281,0.8,37500,2015
+"Kindred Hosp. at Jewish Louisville",640,6.2,6768,65.8,2599,25.3,276,2.7,10283,2015
+"Kosair  Norton Hsp Kosair Chdrn Hsp Norton Healthcare Pavillion",49079,65.3,282,0.4,21941,29.2,3814,5.1,75116,2015
+"Norton  Norton Hsp Kosair Chdrn Hsp Norton Healthcare Pavillion",31044,29.7,45856,43.9,22073,21.1,5536,5.3,104509,2015
+"Norton Audubon Hosp.",11968,15.3,51355,65.6,11968,15.3,2976,3.8,78267,2015
+"Norton Brownsboro Hosp.",3225,9.8,20019,61,7838,23.9,1720,5.2,32802,2015
+"Norton Suburban Hosp.",20385,24.7,22770,27.6,34629,41.9,4842,5.9,82626,2015
+"Our Lady of Peace",33988,68.5,5972,12,8401,16.9,1257,2.5,49618,2015
+"Saints Mary & Elizabeth Hosp.",7330,21.5,19329,56.8,6683,19.6,715,2.1,34057,2015
+"The Brook  Dupont",5453,27.4,9018,45.3,4491,22.5,968,4.9,19930,2015
+"The Brook Hosp.  KMI",6123,24,4114,16.1,13783,54,1489,5.8,25509,2015
+"University of Louisville Hosp.",39815,44.7,18355,20.6,22850,25.6,8094,9.1,89114,2015
+"Cardinal Hill Speciality Hosp. Lexington",593,8,5551,74.7,1114,15,174,2.3,7432,2015
+"Carroll County Memorial Hosp.",298,15.2,1422,72.7,189,9.7,47,2.4,1956,2015
+"Gateway Rehab. Hosp. at Florence",1042,7.5,9842,70.9,2929,21.1,68,0.5,13881,2015
+"HealthSouth Northern Kentucky Rehab. Hosp.",1085,7.7,11070,78.9,1548,11,336,2.4,14039,2015
+"New Horizons Medical Ctr.",33,9.9,279,83.5,22,6.6,NA,0,334,2015
+"Northkey Community CareIntensive Services",2122,71.5,NA,0,815,27.5,32,1.1,2969,2015
+"St Elizabeth Edgewood",25662,20.3,65209,51.7,30569,24.2,4742,3.8,126182,2015
+"St Elizabeth Florence",7372,19.6,21568,57.3,6912,18.4,1803,4.8,37655,2015
+"St Elizabeth Ft Thomas",4909,15.4,19973,62.8,5496,17.3,1422,4.5,31800,2015
+"St Elizabeth Grant",134,18.3,490,67,81,11.1,26,3.6,731,2015
+"Fleming County Hosp.",740,20.5,2075,57.4,717,19.8,86,2.4,3618,2015
+"Meadowview Reg. Medical Ctr.",2322,28.1,4564,55.2,1147,13.9,236,2.9,8269,2015
+"Morgan County ARH Hosp.",78,10.7,603,82.4,47,6.4,4,0.6,732,2015
+"Saint Joseph Mount Sterling",1779,22.8,5101,65.4,867,11.1,53,0.7,7800,2015
+"St Claire Reg. Medical Ctr.",4967,22.4,13061,59,3454,15.6,658,3,22140,2015
+"Kings Daughters Medical Ctr.",16908,26.7,33742,53.2,11185,17.6,1568,2.5,63403,2015
+"Our Lady of Bellefonte Hosp.",5984,20.4,16657,56.8,6056,20.7,611,2.1,29308,2015
+"Three Rivers Medical Ctr.",3057,32.9,4780,51.4,1238,13.3,217,2.3,9292,2015
+"Highlands Reg. Medical Ctr.",4946,24.4,10658,52.7,4185,20.7,455,2.3,20244,2015
+"McDowell ARH Hosp.",380,24,1078,68.2,72,4.6,51,3.2,1581,2015
+"Paul B Hall Reg. Medical Ctr.",1847,28.5,4028,62.1,547,8.4,63,1,6485,2015
+"Pikeville Medical Ctr.",20860,27.4,44281,58.2,8520,11.2,2448,3.2,76109,2015
+"Saint Joseph  Martin",539,27.1,1275,64.1,118,5.9,58,2.9,1990,2015
+"Williamson ARH Hosp.",2441,27.3,5557,62.2,592,6.6,350,3.9,8940,2015
+"Hazard ARH Reg. Medical Ctr.",30895,39.3,41849,53.2,4052,5.2,1922,2.4,78718,2015
+"Kentucky River Medical Ctr.",2434,45.1,2498,46.3,405,7.5,64,1.2,5401,2015
+"Mary Breckinridge ARH Hosp.",249,27.1,586,63.8,22,2.4,62,6.8,919,2015
+"Whitesburg ARH Hosp.",4437,30.1,8293,56.3,1386,9.4,627,4.3,14743,2015
+"Baptist Reg. Medical Ctr.",17723,38.8,22481,49.2,4656,10.2,869,1.9,45729,2015
+"ContinueCARE Hosp. at Baptist Health Corbin",1952,19.7,7461,75.2,431,4.3,80,0.8,9924,2015
+"Harlan ARH Hosp.",8142,41.5,9639,49.1,1234,6.3,619,3.2,19634,2015
+"Knox County Hosp.",916,19.6,3286,70.3,425,9.1,47,1,4674,2015
+"Memorial Hosp. Inc",2728,34.7,4326,55.1,488,6.2,312,4,7854,2015
+"Middlesboro ARH Hosp.",2556,30.3,5180,61.5,529,6.3,161,1.9,8426,2015
+"Pineville Community Hosp.",1362,19.7,4730,68.4,744,10.8,79,1.1,6915,2015
+"Rockcastle Reg. Hosp. & Respiratory Care Ctr.",396,12.2,2565,79.1,228,7,53,1.6,3242,2015
+"Saint Joseph Hosp. London",6807,30.9,11212,50.8,3304,15,744,3.4,22067,2015
+"Casey County Hosp.",283,13.3,1694,79.3,131,6.1,27,1.3,2135,2015
+"Clinton County Hosp.",462,15.2,2166,71.4,395,13,11,0.4,3034,2015
+"Cumberland County Hosp.",577,18.8,2055,66.8,395,12.9,48,1.6,3075,2015
+"Jane Todd Crawford Hosp.",213,12.5,1398,82.2,85,5,5,0.3,1701,2015
+"Lake Cumberland Reg. Hosp.",14838,28.6,30794,59.3,5246,10.1,1063,2.1,51941,2015
+"Russell County Hosp.",483,26.1,1214,65.7,121,6.5,31,1.7,1849,2015
+"Taylor Reg. Hosp.",2582,23.5,6698,61,1457,13.3,250,2.3,10987,2015
+"Wayne County Hosp. Inc",263,14.3,1260,68.6,278,15.1,35,1.9,1836,2015
+"Westlake Reg. Hosp.",211,11.9,1261,71.2,287,16.2,13,0.7,1772,2015
+"Baptist Health Richmond",3847,31.8,6294,52.1,1715,14.2,230,1.9,12086,2015
+"Bluegrass Community Hosp.",203,26,490,62.8,69,8.9,18,2.3,780,2015
+"Bourbon Community Hosp.",7722,67.6,2443,21.4,1152,10.1,99,0.9,11416,2015
+"Cardinal Hill Rehab. Hosp.",7616,20.7,20090,54.5,7343,19.9,1840,5,36889,2015
+"Central Baptist Hosp.",17652,19.1,30833,33.3,42261,45.7,1829,2,92575,2015
+"Clark Reg. Medical Ctr.",3589,37,4360,44.9,1441,14.9,311,3.2,9701,2015
+"Continuing Care Hosp.",3243,22.9,6512,46,4326,30.6,75,0.5,14156,2015
+"Ephraim McDowell Fort Logan Hosp.",1270,53.5,457,19.3,528,22.2,119,5,2374,2015
+"Ephraim McDowell Reg Medical Ctr.",6820,20.3,18066,53.7,8100,24.1,689,2.1,33675,2015
+"Frankfort Reg. Medical Ctr.",5407,21.7,13790,55.3,4482,18,1263,5.1,24942,2015
+"Georgetown Community Hosp.",2010,30,3389,50.6,1129,16.9,169,2.5,6697,2015
+"Harrison Memorial Hosp.",1396,27,2702,52.2,997,19.3,77,1.5,5172,2015
+"Marcum and Wallace Memorial Hosp.",553,11,3783,75.4,643,12.8,36,0.7,5015,2015
+"Ridge Beh. Health System",9783,41,7729,32.4,5719,24,622,2.6,23853,2015
+"Saint Joseph Berea",607,13.8,3114,71,598,13.6,69,1.6,4388,2015
+"Saint Joseph East",14771,34.5,9358,21.9,17430,40.7,1270,3,42829,2015
+"Saint Joseph Hosp.",10243,14.9,32078,46.5,25779,37.4,848,1.2,68948,2015
+"Select Specialty Hosp. Lexington",879,7.4,8574,72.2,1972,16.6,450,3.8,11875,2015
+"Shriners Hosp for Children",476,65,NA,0,248,33.9,8,1.1,732,2015
+"The James B Haggin Memorial Hosp.",149,10.5,1036,73.2,217,15.3,14,1,1416,2015
+"UK HealthCare Good Samaritan Hosp.",18306,41,17868,40,7207,16.1,1262,2.8,44643,2015
+"University of Kentucky Hosp.",85074,39.7,75239,35.1,48049,22.4,6126,2.9,214488,2015
